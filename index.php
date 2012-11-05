@@ -2,12 +2,9 @@
 /*
 -Features-
 Alpha: 
-* Configuration should exist
-* Process a form to store it's values in a csv
-	* if file is empty or nonexistent create a first row based on field names
-	* save the fields plus the date/time and the ip address from which the submission arrived
 * Show error/success after form has been submitted.
 * A basic HTML/CSS framework
+* Sanitize input
 
 Beta:
 * Refactor code so it's elegant before anyone sees
